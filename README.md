@@ -1,5 +1,4 @@
 # Ayudantía lección 14
-
   -git init
   -git add .
   -git commit -m "mi primer commit"
