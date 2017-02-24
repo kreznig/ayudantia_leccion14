@@ -6,4 +6,5 @@
   -git remote add origin URL
   -git push origin master
   -cuando haces git clone "ruta", git add . , commit, push
-  
+  -para crear archivos : touch, mkdir crea carpeta
+  -touch .gitignore
